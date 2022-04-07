@@ -6,7 +6,7 @@ Projeto utilizando HTML e CSS puros, buscando observar os conceitos aprendidos n
 - Uso das ferramentas de display.
 - Exemplo de uso de layout minimalista.
 - Uso de paleta de cores.
-- Exercício de tags semânticas para facilitar a acessibilidade.
+- Exercício para fixar o uso de tags semânticas e acessibilidade.
 
 ## 🛠️ Construído com
 
