@@ -13,6 +13,8 @@ Projeto utilizando HTML e CSS puros, buscando observar os conceitos aprendidos n
 * HTML
 * CSS
 
+![Animação4](https://user-images.githubusercontent.com/90878483/162100446-c0d8d075-1b88-4c9c-b5ac-45d5f6499992.gif)
 
 ---
 Desenvolvido por [Bruno Amaral](https://github.com/brunomrl)
+
