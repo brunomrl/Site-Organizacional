@@ -17,4 +17,3 @@ Projeto utilizando HTML e CSS puros, buscando observar os conceitos aprendidos n
 
 ---
 Desenvolvido por [Bruno Amaral](https://github.com/brunomrl)
-0 comments on commit 38bd6a7
