@@ -1,4 +1,4 @@
-# Site Institucional
+# Site Organizacional
 
 Projeto utilizando HTML e CSS puros, buscando observar os conceitos aprendidos no curso da Origamid.
 ## ⚙️ Características da Página
@@ -13,7 +13,7 @@ Projeto utilizando HTML e CSS puros, buscando observar os conceitos aprendidos n
 * HTML
 * CSS
 
-![Animação4](https://user-images.githubusercontent.com/90878483/162100446-c0d8d075-1b88-4c9c-b5ac-45d5f6499992.gif)
+![Animação5](https://user-images.githubusercontent.com/90878483/162840300-2d9f99c8-aba2-4ac1-bc9e-f31608af6f7a.gif)
 
 ---
 Desenvolvido por [Bruno Amaral](https://github.com/brunomrl)
